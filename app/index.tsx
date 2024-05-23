@@ -9,6 +9,9 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Text style={{
+        fontWeight: "700"
+      }}>Testando aplicação mobile</Text>
       <Text>Edit app/index.tsx to edit this screen.</Text>
     </View>
   );

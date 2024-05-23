@@ -1,1 +1,0 @@
-/mnt/c/Users/CezarFBC/AppData/Local/Android/Sdk/platform-tools/adb.exe
