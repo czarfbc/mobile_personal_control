@@ -28,7 +28,7 @@ export default function Root({ children }: PropsWithChildren) {
   );
 }
 
-const responsiveBackground = `
+const responsiveBackground = /* css */ `
 body {
   background-color: #fff;
 }
