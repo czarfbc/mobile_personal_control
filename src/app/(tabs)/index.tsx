@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
-import { Colors } from '../../constants/Colors';
-import { FontFamily } from '../../constants/FontFamily';
+import { Colors } from '@/constants/Colors';
+import { FontFamily } from '@/constants/FontFamily';
 
 export default function Home() {
   return (

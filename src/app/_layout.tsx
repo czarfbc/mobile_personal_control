@@ -1,5 +1,6 @@
 import { Slot } from 'expo-router';
 import * as SplashScreen from 'expo-splash-screen';
+import { StatusBar, Text } from 'react-native';
 import {
   useFonts,
   SpaceGrotesk_300Light,
@@ -8,7 +9,6 @@ import {
   SpaceGrotesk_600SemiBold,
   SpaceGrotesk_700Bold,
 } from '@expo-google-fonts/space-grotesk';
-import { StatusBar } from 'react-native';
 
 SplashScreen.preventAutoHideAsync();
 
